@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sex: MyString
+  age: 1
+  moisture_level: 1
+  oily_level: 1
+  non_skin_type: MyString
+  sensitive_type: false
+  sensitive_type2: false
+  top_trouble: MyString
+  second_trouble: MyString
+  other_trouble: MyText
+  budget: 1
+  user_id: 1
+
+two:
+  sex: MyString
+  age: 1
+  moisture_level: 1
+  oily_level: 1
+  non_skin_type: MyString
+  sensitive_type: false
+  sensitive_type2: false
+  top_trouble: MyString
+  second_trouble: MyString
+  other_trouble: MyText
+  budget: 1
+  user_id: 1
